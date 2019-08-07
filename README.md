@@ -8,4 +8,7 @@
   - CCNP
   - CCIE
     - [INE CCIE Voice by John Snow](https://ine.com)
+- Books
+  - [SIP Trunking](http://www.ciscopress.com/store/sip-trunking-9780133433746)
+  - [Fax, Modem, and Text for IP Telephony](http://www.ciscopress.com/store/fax-modem-and-text-for-ip-telephony-9781587057588)
   
